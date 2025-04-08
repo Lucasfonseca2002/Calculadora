@@ -9,3 +9,4 @@ Permite realizar operações matemáticas básicas e avançadas, como Seno, Coss
 - Funções avançadas: seno, cosseno, tangente e logaritmo.
 - Histórico de cálculos.
 - Suporte para entrada pelo teclado.
+
